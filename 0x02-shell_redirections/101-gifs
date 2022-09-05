@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -v /bin /usr/bin | sort | uniq | grep .gif
+ls -v sort | uniq | grep .gif
